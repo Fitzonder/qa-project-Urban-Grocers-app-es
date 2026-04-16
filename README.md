@@ -1,51 +1,49 @@
-Urban.Grocers API Testing Project
+🧪 Urban.Grocers API Testing Project
+📌 Description
 
-Descripción
+This project is part of my QA Engineer training and focuses on automated testing for the Urban.Grocers API. The goal is to validate the reliability, data integrity, and correct behavior of the API across different scenarios.
 
-Proyecto de practica para el titulo de QA Ingineer el cual se centra en la automatización de pruebas para la API de Urban.Grocers.
+🎯 Project Objectives
+Verify the correct creation of kits via API endpoints
+Ensure data integrity during request and response cycles
+Validate API responses under different test scenarios
+Detect and document potential defects
 
-Objetivos del Proyecto
+🛠️ Technologies & Tools
+Programming Language: Python 3.x
+Testing Framework: Pytest
+Libraries: requests
+Tools: Git, GitHub
 
-\- Verificar la correcta creación de kits 
+📁 Project Structure
+├── configuration.py              # Configuration files and environment variables
+├── data.py                       # Common functions and test data utilities
+├── sender_stand_request.py       # Request handling for kit creation
+├── create_kit_name_kit_test.py   # Test cases for API validation
 
-\- Verificar la integridad del correcto recibo y envío de datos. 
-
-\- Validar las respuestas de la API para diferentes escenarios de prueba.
-
-Tecnologías Utilizadas
-
-\- Python 3.x y dependencias instaladas (pytest, requests).
-
-\- *Framework de Pruebas:\*\* Pytest
-
-\- *Herramientas Adicionales:\*\* Git, GitHub
-
-Estructura del Proyecto
-
-\- `Configuration.py`: Archivos de configuración y variables de entorno.
-
-\- `data.py`: Funciones y utilidades comunes para las pruebas.
-
-\- `sender\_stand\_request.py`: Pruebas para la creación de kits.
-
-\- `create\_kit\_name\_kit\_test.py`: Contiene todos los archivos de prueba.
-
-Cómo Ejecutar las Pruebas
-
-1\. Clonar el repositorio:
-
-&nbsp;  ```bash
-
-&nbsp;  git clone git@github.com:Fitzonder/qa-project-Urban-Grocers-app-es.git
-
-Navegar al directorio del proyecto:
-
+🚀 How to Run the Tests
+1. Clone the repository
+git clone git@github.com:Fitzonder/qa-project-Urban-Grocers-app-es.git
+2. Navigate to the project directory
 cd urban-grocers-api-testing
-
-Instalar las dependencias:
-
+3. Install dependencies
 pip install -r requirements.txt
-
-Ejecutar las pruebas:
-
+4. Run the tests
 pytest
+
+✅ Key Skills Demonstrated
+API Testing
+Test Case Design
+Test Automation with Python (Pytest)
+Data Validation
+Bug Detection & Reporting
+
+💡 Notes
+
+This project demonstrates my ability to design and execute automated API tests, ensuring software quality through structured validation and testing practices.
+
+🔥 Mejora clave que hicimos
+Estructura tipo proyecto real (esto gusta mucho a recruiters)
+Inglés limpio y profesional
+Keywords QA (API Testing, Automation, Pytest, etc.)
+Sección de skills demostradas (esto es oro para tu perfil)
