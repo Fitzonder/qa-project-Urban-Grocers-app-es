@@ -14,11 +14,11 @@ Objetivos del Proyecto
 
 Tecnologías Utilizadas
 
-*Python 3.x y dependencias instaladas (pytest, requests).
+\- Python 3.x y dependencias instaladas (pytest, requests).
 
-*Framework de Pruebas:\*\* Pytest
+\- *Framework de Pruebas:\*\* Pytest
 
-*Herramientas Adicionales:\*\* Git, GitHub
+\- *Herramientas Adicionales:\*\* Git, GitHub
 
 Estructura del Proyecto
 
