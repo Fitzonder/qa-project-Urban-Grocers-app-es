@@ -1,18 +1,10 @@
-\# Urban.Grocers API Testing Project
+Urban.Grocers API Testing Project
 
-
-
-\## Descripción
-
-
+Descripción
 
 Proyecto de practica para el titulo de QA Ingineer el cual se centra en la automatización de pruebas para la API de Urban.Grocers.
 
-
-
-\## Objetivos del Proyecto
-
-
+Objetivos del Proyecto
 
 \- Verificar la correcta creación de kits 
 
@@ -20,23 +12,15 @@ Proyecto de practica para el titulo de QA Ingineer el cual se centra en la autom
 
 \- Validar las respuestas de la API para diferentes escenarios de prueba.
 
+Tecnologías Utilizadas
 
+*Python 3.x y dependencias instaladas (pytest, requests).
 
-\## Tecnologías Utilizadas
+*Framework de Pruebas:\*\* Pytest
 
+*Herramientas Adicionales:\*\* Git, GitHub
 
-
-\- \*\*Python 3.x y dependencias instaladas (pytest, requests).
-
-\- \*\*Framework de Pruebas:\*\* Pytest
-
-\- \*\*Herramientas Adicionales:\*\* Git, GitHub
-
-
-
-\## Estructura del Proyecto
-
-
+Estructura del Proyecto
 
 \- `Configuration.py`: Archivos de configuración y variables de entorno.
 
@@ -46,11 +30,7 @@ Proyecto de practica para el titulo de QA Ingineer el cual se centra en la autom
 
 \- `create\_kit\_name\_kit\_test.py`: Contiene todos los archivos de prueba.
 
-
-
-\## Cómo Ejecutar las Pruebas
-
-
+Cómo Ejecutar las Pruebas
 
 1\. Clonar el repositorio:
 
@@ -58,23 +38,14 @@ Proyecto de practica para el titulo de QA Ingineer el cual se centra en la autom
 
 &nbsp;  git clone git@github.com:Fitzonder/qa-project-Urban-Grocers-app-es.git
 
-
-
 Navegar al directorio del proyecto:
 
 cd urban-grocers-api-testing
-
-
 
 Instalar las dependencias:
 
 pip install -r requirements.txt
 
-
-
 Ejecutar las pruebas:
 
 pytest
-
-
-
